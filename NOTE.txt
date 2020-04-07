@@ -1,0 +1,6 @@
+git clone <GIT-URL> - Take copy of file from Remote(GitHub.com) to your local machine.
+git status - To check the current branch
+git checkout <BRANCH-NAME> - To change branch
+git add <FILE-NAME> - To commit files locally in git.(It means your file is present in your local machine only).
+git commit - Commit on remote side.
+git push - Push all the local file to remote side. 
