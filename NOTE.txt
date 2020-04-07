@@ -4,3 +4,8 @@ git checkout <BRANCH-NAME> - To change branch
 git add <FILE-NAME> - To commit files locally in git.(It means your file is present in your local machine only).
 git commit - Commit on remote side.
 git push - Push all the local file to remote side. 
+
+
+Browser sync
+
+browser-sync --start --directory --files "*"
