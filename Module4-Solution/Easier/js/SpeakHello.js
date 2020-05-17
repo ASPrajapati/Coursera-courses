@@ -1,3 +1,5 @@
+console.log("");
+console.log("/**************** SpeakHello Output **************/");
 (function (window){
 	var speakWord = "Hello";
 	var helloSpeaker = {};
