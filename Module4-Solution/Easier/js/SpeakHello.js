@@ -1,3 +1,5 @@
+console.log("");
+console.log("/************* SpeakHello.js ************/");
 (function (window){
 	var speakWord = "Hello";
 	var helloSpeaker = {};
@@ -7,3 +9,5 @@
 	helloSpeaker.speak("Anil");
 	window.helloSpeaker = helloSpeaker;
 })(window);
+
+console.log();
